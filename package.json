@@ -4,7 +4,7 @@
     "morgan": "^1.10.0"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "name": "samhyam",
   "version": "1.0.0",
